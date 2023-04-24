@@ -1,12 +1,11 @@
 {
-    "name": "jurapro/pop-it-mvc",
-    "description": "Simple mvc framework",
+    "name": "stepbro0712/pnsk",
     "type": "project",
     "license": "MIT",
-    "autjors": [
+    "authors": [
         {
-            "name": "jurapro",
-            "email": "jurapro@mail.ru"
+            "name": "StepBro0712",
+            "email": "stepa.super2021@mail.ru"
         }
     ],
     "minimum-stability": "dev",
@@ -19,4 +18,5 @@
             "": "app/"
         }
     }
+
 }
