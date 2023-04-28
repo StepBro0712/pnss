@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49a9c5f5-2425-41a3-9f6f-956eac7c2f4a" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/app/model/Post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/site/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/assets/servers.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/division.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/rate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site/room.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Controller/Site.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/Site.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Application.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Src/Settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Src/Settings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/platform_check.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/platform_check.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +29,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="root@192.168.13.60:22 password">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
@@ -70,16 +63,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm": "SSH Configuration",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm": "SSH Configuration",
+    "last_opened_file_path": "/home/gr411_sesiv/PhpstormProjects/pnss/public/site/assets",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/site/assets" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,6 +96,9 @@
       <workItem from="1682333549070" duration="749000" />
       <workItem from="1682335923768" duration="883000" />
       <workItem from="1682336829233" duration="4283000" />
+      <workItem from="1682582894577" duration="622000" />
+      <workItem from="1682594871594" duration="321000" />
+      <workItem from="1682673942376" duration="9476000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1682336402071</created>
