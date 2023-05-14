@@ -30,6 +30,8 @@ class Site
         return new View('site.signup');
     }
 
+
+
     public function login(Request $request): string
     {
         //Если просто обращение к странице, то отобразить форму

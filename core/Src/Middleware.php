@@ -55,4 +55,3 @@ class Middleware
         return $dispatcherMiddleware->dispatch($httpMethod, $uri)[1] ?? [];
     }
 }
-
